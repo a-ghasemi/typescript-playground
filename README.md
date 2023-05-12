@@ -4,7 +4,7 @@
 
 this will build the image first, then runs the container
 
-2. write your code inside app/src
+2. write your code inside `app/src`
 
 3. run `tsc` to process the source
 
